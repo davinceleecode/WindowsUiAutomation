@@ -1,0 +1,12 @@
+C:\Users\vincent.lee.c.flores\Desktop\LeeSourceCode\WindowsUiAutomation\WindowsUiAutomation\bin\Debug\WindowsUiAutomation.exe.config
+C:\Users\vincent.lee.c.flores\Desktop\LeeSourceCode\WindowsUiAutomation\WindowsUiAutomation\bin\Debug\WindowsUiAutomation.exe
+C:\Users\vincent.lee.c.flores\Desktop\LeeSourceCode\WindowsUiAutomation\WindowsUiAutomation\bin\Debug\WindowsUiAutomation.pdb
+C:\Users\vincent.lee.c.flores\Desktop\LeeSourceCode\WindowsUiAutomation\WindowsUiAutomation\bin\Debug\Interop.UIAutomationClient.dll
+C:\Users\vincent.lee.c.flores\Desktop\LeeSourceCode\WindowsUiAutomation\WindowsUiAutomation\bin\Debug\UIAComWrapper.dll
+C:\Users\vincent.lee.c.flores\Desktop\LeeSourceCode\WindowsUiAutomation\WindowsUiAutomation\bin\Debug\UIAComWrapper.pdb
+C:\Users\vincent.lee.c.flores\Desktop\LeeSourceCode\WindowsUiAutomation\WindowsUiAutomation\obj\Debug\WindowsUiAutomation.frmWindowsUiAutomation.resources
+C:\Users\vincent.lee.c.flores\Desktop\LeeSourceCode\WindowsUiAutomation\WindowsUiAutomation\obj\Debug\WindowsUiAutomation.Properties.Resources.resources
+C:\Users\vincent.lee.c.flores\Desktop\LeeSourceCode\WindowsUiAutomation\WindowsUiAutomation\obj\Debug\WindowsUiAutomation.csproj.GenerateResource.cache
+C:\Users\vincent.lee.c.flores\Desktop\LeeSourceCode\WindowsUiAutomation\WindowsUiAutomation\obj\Debug\WindowsUiAutomation.csproj.CopyComplete
+C:\Users\vincent.lee.c.flores\Desktop\LeeSourceCode\WindowsUiAutomation\WindowsUiAutomation\obj\Debug\WindowsUiAutomation.exe
+C:\Users\vincent.lee.c.flores\Desktop\LeeSourceCode\WindowsUiAutomation\WindowsUiAutomation\obj\Debug\WindowsUiAutomation.pdb

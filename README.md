@@ -8,6 +8,7 @@ I created a sample UiAutomation which has different interaction to UiControls.
 * ComboBox
 * TextBox
 * Button
+
 ![WindowsUiAutomation](/WindowsUiAutomation.PNG)
  
  

@@ -22,3 +22,4 @@ C:\Users\vincent.lee.c.flores\Desktop\WindowsUiAutomation\WindowsUiAutomation\ob
 C:\Users\vincent.lee.c.flores\Desktop\WindowsUiAutomation\WindowsUiAutomation\obj\Debug\WindowsUiAutomation.csproj.CopyComplete
 C:\Users\vincent.lee.c.flores\Desktop\WindowsUiAutomation\WindowsUiAutomation\obj\Debug\WindowsUiAutomation.exe
 C:\Users\vincent.lee.c.flores\Desktop\WindowsUiAutomation\WindowsUiAutomation\obj\Debug\WindowsUiAutomation.pdb
+C:\Users\vincent.lee.c.flores\Desktop\LeeSourceCode\WindowsUiAutomation\WindowsUiAutomation\obj\Debug\WindowsUiAutomation.csprojAssemblyReference.cache

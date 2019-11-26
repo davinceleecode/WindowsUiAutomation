@@ -8,3 +8,7 @@ I created a sample UiAutomation which has different interaction to UiControls.
 * ComboBox
 * TextBox
 * Button
+
+
+[WindowsUiAutomation](https://github.com/davinceleecode/WindowsUiAutomation/blob/master/WindowsUiAutomation.PNG)
+ 

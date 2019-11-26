@@ -8,8 +8,7 @@ I created a sample UiAutomation which has different interaction to UiControls.
 * ComboBox
 * TextBox
 * Button
-
-![GitHub Logo](/WindowsUiAutomation.PNG)
-Format: ![Alt Text](url)
+![WindowsUiAutomation](/WindowsUiAutomation.PNG)
+ 
  
  

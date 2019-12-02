@@ -94,6 +94,18 @@ namespace WindowsUiAutomation
             AutomationElement txtName = NameTabX.FindFirst(TreeScope.Descendants, new PropertyCondition(AutomationElement.AutomationIdProperty, "txtName"));
             MessageBox.Show(txtName.GetTextControl());
 
+
+            //sample of getting ColletionElement
+            //get all textmessages
+            //AutomationElementCollection TextElementCollection = InternetExplorerServer.FindAll(TreeScope.Descendants, new AndCondition(new PropertyCondition(AutomationElement.ControlTypeProperty, ControlType.Text),
+            //                                                                                                                  new PropertyCondition(AutomationElement.LocalizedControlTypeProperty, "text"),
+            //                                                                                                                  new PropertyCondition(AutomationElement.AutomationIdProperty, "")));
+
+
+            //var CssWebIndex = TextElementCollection.Cast<AutomationElement>().ToList().FindIndex(x => GetValue(x.Current.Name) == "CSS Web");
+            //model.Date = DateTime.Parse(TextElementCollection.Cast<AutomationElement>().ToList()[CssWebIndex + 2].Current.Name.Trim()).ToShortDateString();
+            //model.Name = TextElementCollection.Cast<AutomationElement>().ToList()[CssWebIndex + 3].Current.Name.Replace(",", "").Trim();
+
         }
         #endregion
     }

@@ -11,6 +11,8 @@ namespace WindowsUiAutomation
     public static class AutomationElementExtensions
     {
 
+       
+
         /// <summary>
         /// Get the text value
         /// </summary>

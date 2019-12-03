@@ -32,13 +32,13 @@
             this.btnExit = new System.Windows.Forms.Button();
             this.tabControl1 = new System.Windows.Forms.TabControl();
             this.GenderTab = new System.Windows.Forms.TabPage();
-            this.CountryTab = new System.Windows.Forms.TabPage();
-            this.NameTab = new System.Windows.Forms.TabPage();
             this.label1 = new System.Windows.Forms.Label();
             this.radioButton2 = new System.Windows.Forms.RadioButton();
             this.radioButton1 = new System.Windows.Forms.RadioButton();
+            this.CountryTab = new System.Windows.Forms.TabPage();
             this.lblCountry = new System.Windows.Forms.Label();
             this.cmbCountry = new System.Windows.Forms.ComboBox();
+            this.NameTab = new System.Windows.Forms.TabPage();
             this.lblName = new System.Windows.Forms.Label();
             this.txtName = new System.Windows.Forms.TextBox();
             this.tabControl1.SuspendLayout();
@@ -50,9 +50,10 @@
             // btnStart
             // 
             this.btnStart.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnStart.Location = new System.Drawing.Point(75, 286);
+            this.btnStart.Location = new System.Drawing.Point(56, 232);
+            this.btnStart.Margin = new System.Windows.Forms.Padding(2);
             this.btnStart.Name = "btnStart";
-            this.btnStart.Size = new System.Drawing.Size(185, 44);
+            this.btnStart.Size = new System.Drawing.Size(139, 36);
             this.btnStart.TabIndex = 4;
             this.btnStart.Text = "Start Automation";
             this.btnStart.UseVisualStyleBackColor = true;
@@ -61,9 +62,10 @@
             // btnExit
             // 
             this.btnExit.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnExit.Location = new System.Drawing.Point(284, 286);
+            this.btnExit.Location = new System.Drawing.Point(213, 232);
+            this.btnExit.Margin = new System.Windows.Forms.Padding(2);
             this.btnExit.Name = "btnExit";
-            this.btnExit.Size = new System.Drawing.Size(185, 44);
+            this.btnExit.Size = new System.Drawing.Size(139, 36);
             this.btnExit.TabIndex = 5;
             this.btnExit.Text = "Exit";
             this.btnExit.UseVisualStyleBackColor = true;
@@ -74,10 +76,11 @@
             this.tabControl1.Controls.Add(this.GenderTab);
             this.tabControl1.Controls.Add(this.CountryTab);
             this.tabControl1.Controls.Add(this.NameTab);
-            this.tabControl1.Location = new System.Drawing.Point(12, 12);
+            this.tabControl1.Location = new System.Drawing.Point(9, 10);
+            this.tabControl1.Margin = new System.Windows.Forms.Padding(2);
             this.tabControl1.Name = "tabControl1";
             this.tabControl1.SelectedIndex = 0;
-            this.tabControl1.Size = new System.Drawing.Size(549, 256);
+            this.tabControl1.Size = new System.Drawing.Size(412, 208);
             this.tabControl1.TabIndex = 9;
             // 
             // GenderTab
@@ -85,44 +88,23 @@
             this.GenderTab.Controls.Add(this.label1);
             this.GenderTab.Controls.Add(this.radioButton2);
             this.GenderTab.Controls.Add(this.radioButton1);
-            this.GenderTab.Location = new System.Drawing.Point(4, 25);
+            this.GenderTab.Location = new System.Drawing.Point(4, 22);
+            this.GenderTab.Margin = new System.Windows.Forms.Padding(2);
             this.GenderTab.Name = "GenderTab";
-            this.GenderTab.Padding = new System.Windows.Forms.Padding(3);
-            this.GenderTab.Size = new System.Drawing.Size(541, 227);
+            this.GenderTab.Padding = new System.Windows.Forms.Padding(2);
+            this.GenderTab.Size = new System.Drawing.Size(404, 182);
             this.GenderTab.TabIndex = 0;
             this.GenderTab.Text = "GenderTab";
             this.GenderTab.UseVisualStyleBackColor = true;
-            // 
-            // CountryTab
-            // 
-            this.CountryTab.Controls.Add(this.lblCountry);
-            this.CountryTab.Controls.Add(this.cmbCountry);
-            this.CountryTab.Location = new System.Drawing.Point(4, 25);
-            this.CountryTab.Name = "CountryTab";
-            this.CountryTab.Padding = new System.Windows.Forms.Padding(3);
-            this.CountryTab.Size = new System.Drawing.Size(541, 227);
-            this.CountryTab.TabIndex = 1;
-            this.CountryTab.Text = "CountryTab";
-            this.CountryTab.UseVisualStyleBackColor = true;
-            // 
-            // NameTab
-            // 
-            this.NameTab.Controls.Add(this.lblName);
-            this.NameTab.Controls.Add(this.txtName);
-            this.NameTab.Location = new System.Drawing.Point(4, 25);
-            this.NameTab.Name = "NameTab";
-            this.NameTab.Size = new System.Drawing.Size(541, 227);
-            this.NameTab.TabIndex = 2;
-            this.NameTab.Text = "NameTab";
-            this.NameTab.UseVisualStyleBackColor = true;
             // 
             // label1
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(127, 103);
+            this.label1.Location = new System.Drawing.Point(95, 84);
+            this.label1.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(74, 20);
+            this.label1.Size = new System.Drawing.Size(64, 17);
             this.label1.TabIndex = 11;
             this.label1.Text = "Gender :";
             // 
@@ -131,9 +113,10 @@
             this.radioButton2.AutoSize = true;
             this.radioButton2.Checked = true;
             this.radioButton2.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.radioButton2.Location = new System.Drawing.Point(328, 101);
+            this.radioButton2.Location = new System.Drawing.Point(246, 82);
+            this.radioButton2.Margin = new System.Windows.Forms.Padding(2);
             this.radioButton2.Name = "radioButton2";
-            this.radioButton2.Size = new System.Drawing.Size(85, 24);
+            this.radioButton2.Size = new System.Drawing.Size(72, 21);
             this.radioButton2.TabIndex = 10;
             this.radioButton2.TabStop = true;
             this.radioButton2.Text = "Female";
@@ -143,20 +126,35 @@
             // 
             this.radioButton1.AutoSize = true;
             this.radioButton1.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.radioButton1.Location = new System.Drawing.Point(222, 101);
+            this.radioButton1.Location = new System.Drawing.Point(166, 82);
+            this.radioButton1.Margin = new System.Windows.Forms.Padding(2);
             this.radioButton1.Name = "radioButton1";
-            this.radioButton1.Size = new System.Drawing.Size(66, 24);
+            this.radioButton1.Size = new System.Drawing.Size(56, 21);
             this.radioButton1.TabIndex = 9;
             this.radioButton1.Text = "Male";
             this.radioButton1.UseVisualStyleBackColor = true;
+            // 
+            // CountryTab
+            // 
+            this.CountryTab.Controls.Add(this.lblCountry);
+            this.CountryTab.Controls.Add(this.cmbCountry);
+            this.CountryTab.Location = new System.Drawing.Point(4, 22);
+            this.CountryTab.Margin = new System.Windows.Forms.Padding(2);
+            this.CountryTab.Name = "CountryTab";
+            this.CountryTab.Padding = new System.Windows.Forms.Padding(2);
+            this.CountryTab.Size = new System.Drawing.Size(404, 182);
+            this.CountryTab.TabIndex = 1;
+            this.CountryTab.Text = "CountryTab";
+            this.CountryTab.UseVisualStyleBackColor = true;
             // 
             // lblCountry
             // 
             this.lblCountry.AutoSize = true;
             this.lblCountry.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblCountry.Location = new System.Drawing.Point(87, 103);
+            this.lblCountry.Location = new System.Drawing.Point(65, 84);
+            this.lblCountry.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.lblCountry.Name = "lblCountry";
-            this.lblCountry.Size = new System.Drawing.Size(77, 20);
+            this.lblCountry.Size = new System.Drawing.Size(65, 17);
             this.lblCountry.TabIndex = 5;
             this.lblCountry.Text = "Country :";
             // 
@@ -198,39 +196,55 @@
             "Ireland",
             "Israel",
             "Italy"});
-            this.cmbCountry.Location = new System.Drawing.Point(183, 99);
+            this.cmbCountry.Location = new System.Drawing.Point(137, 80);
+            this.cmbCountry.Margin = new System.Windows.Forms.Padding(2);
             this.cmbCountry.Name = "cmbCountry";
-            this.cmbCountry.Size = new System.Drawing.Size(270, 28);
+            this.cmbCountry.Size = new System.Drawing.Size(204, 25);
             this.cmbCountry.TabIndex = 4;
+            // 
+            // NameTab
+            // 
+            this.NameTab.Controls.Add(this.lblName);
+            this.NameTab.Controls.Add(this.txtName);
+            this.NameTab.Location = new System.Drawing.Point(4, 22);
+            this.NameTab.Margin = new System.Windows.Forms.Padding(2);
+            this.NameTab.Name = "NameTab";
+            this.NameTab.Size = new System.Drawing.Size(404, 182);
+            this.NameTab.TabIndex = 2;
+            this.NameTab.Text = "NameTab";
+            this.NameTab.UseVisualStyleBackColor = true;
             // 
             // lblName
             // 
             this.lblName.AutoSize = true;
             this.lblName.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblName.Location = new System.Drawing.Point(95, 103);
+            this.lblName.Location = new System.Drawing.Point(71, 84);
+            this.lblName.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.lblName.Name = "lblName";
-            this.lblName.Size = new System.Drawing.Size(63, 20);
+            this.lblName.Size = new System.Drawing.Size(53, 17);
             this.lblName.TabIndex = 3;
             this.lblName.Text = "Name :";
             // 
             // txtName
             // 
             this.txtName.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtName.Location = new System.Drawing.Point(176, 100);
+            this.txtName.Location = new System.Drawing.Point(132, 81);
+            this.txtName.Margin = new System.Windows.Forms.Padding(2);
             this.txtName.Name = "txtName";
             this.txtName.ReadOnly = true;
-            this.txtName.Size = new System.Drawing.Size(270, 27);
+            this.txtName.Size = new System.Drawing.Size(204, 23);
             this.txtName.TabIndex = 2;
             this.txtName.Text = "davinceleecode";
             // 
             // frmWindowsUiAutomation
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(571, 336);
+            this.ClientSize = new System.Drawing.Size(428, 273);
             this.Controls.Add(this.tabControl1);
             this.Controls.Add(this.btnExit);
             this.Controls.Add(this.btnStart);
+            this.Margin = new System.Windows.Forms.Padding(2);
             this.Name = "frmWindowsUiAutomation";
             this.Text = "WindowsUiAutomation";
             this.tabControl1.ResumeLayout(false);

@@ -37,6 +37,7 @@
       <HintPath>packages\UIAComWrapper.1.1.0.14\lib\net40\Interop.UIAutomationClient.dll</HintPath>
       <EmbedInteropTypes>False</EmbedInteropTypes>
     </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -62,6 +63,9 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="WindowHandle.cs" />
+    <Compile Include="WindowHandleInfo.cs" />
+    <Compile Include="WindowHandleSwitch.cs" />
     <EmbeddedResource Include="frmWindowsUiAutomation.resx">
       <DependentUpon>frmWindowsUiAutomation.cs</DependentUpon>
     </EmbeddedResource>

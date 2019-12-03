@@ -23,3 +23,16 @@ C:\Users\vincent.lee.c.flores\Desktop\WindowsUiAutomation\WindowsUiAutomation\ob
 C:\Users\vincent.lee.c.flores\Desktop\WindowsUiAutomation\WindowsUiAutomation\obj\Debug\WindowsUiAutomation.exe
 C:\Users\vincent.lee.c.flores\Desktop\WindowsUiAutomation\WindowsUiAutomation\obj\Debug\WindowsUiAutomation.pdb
 C:\Users\vincent.lee.c.flores\Desktop\LeeSourceCode\WindowsUiAutomation\WindowsUiAutomation\obj\Debug\WindowsUiAutomation.csprojAssemblyReference.cache
+C:\Users\Lee\Desktop\SourceCode\WindowsUiAutomation\WindowsUiAutomation\obj\Debug\WindowsUiAutomation.csprojAssemblyReference.cache
+C:\Users\Lee\Desktop\SourceCode\WindowsUiAutomation\WindowsUiAutomation\obj\Debug\WindowsUiAutomation.frmWindowsUiAutomation.resources
+C:\Users\Lee\Desktop\SourceCode\WindowsUiAutomation\WindowsUiAutomation\obj\Debug\WindowsUiAutomation.Properties.Resources.resources
+C:\Users\Lee\Desktop\SourceCode\WindowsUiAutomation\WindowsUiAutomation\obj\Debug\WindowsUiAutomation.csproj.GenerateResource.cache
+C:\Users\Lee\Desktop\SourceCode\WindowsUiAutomation\WindowsUiAutomation\obj\Debug\WindowsUiAutomation.exe
+C:\Users\Lee\Desktop\SourceCode\WindowsUiAutomation\WindowsUiAutomation\obj\Debug\WindowsUiAutomation.pdb
+C:\Users\Lee\Desktop\SourceCode\WindowsUiAutomation\WindowsUiAutomation\bin\Debug\WindowsUiAutomation.exe.config
+C:\Users\Lee\Desktop\SourceCode\WindowsUiAutomation\WindowsUiAutomation\bin\Debug\WindowsUiAutomation.exe
+C:\Users\Lee\Desktop\SourceCode\WindowsUiAutomation\WindowsUiAutomation\bin\Debug\WindowsUiAutomation.pdb
+C:\Users\Lee\Desktop\SourceCode\WindowsUiAutomation\WindowsUiAutomation\bin\Debug\Interop.UIAutomationClient.dll
+C:\Users\Lee\Desktop\SourceCode\WindowsUiAutomation\WindowsUiAutomation\bin\Debug\UIAComWrapper.dll
+C:\Users\Lee\Desktop\SourceCode\WindowsUiAutomation\WindowsUiAutomation\bin\Debug\UIAComWrapper.pdb
+C:\Users\Lee\Desktop\SourceCode\WindowsUiAutomation\WindowsUiAutomation\obj\Debug\WindowsUiAutomation.csproj.CopyComplete

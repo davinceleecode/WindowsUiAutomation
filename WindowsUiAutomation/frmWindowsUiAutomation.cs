@@ -25,9 +25,6 @@ namespace WindowsUiAutomation
 
 
 
-        [DllImport("user32.dll", EntryPoint = "FindWindowEx")]
-        public static extern IntPtr FindWindowEx(IntPtr hwndParent, IntPtr hwndChildAfter, string lpszClass, string lpszWindow);
-
         #region Built-in Events
         private void btnExit_Click(object sender, EventArgs e)
         {
